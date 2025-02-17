@@ -1,3 +1,4 @@
+
 // import the classes
 import Truck from "../classes/Truck.js";
 import Motorbike from "../classes/Motorbike.js";
